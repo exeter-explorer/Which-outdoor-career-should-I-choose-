@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Which outdoor career should I choose" />
+              <option name="title_text" value="What outdoor career should I choose" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1553,7 +1553,7 @@
       <links>
         <slidelink slideid="_player.5rqmh6pvTTj" displaytext="Introduction" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5rqmh6pvTTj.6ARW9mI4nus" displaytext="Which outdoor career shoud I choose?" expand="false" type="slide" />
+            <slidelink slideid="_player.5rqmh6pvTTj.6ARW9mI4nus" displaytext="What outdoor career shoud I choose?" expand="false" type="slide" />
             <slidelink slideid="_player.5rqmh6pvTTj.6WL2CtWYD6m" displaytext="Course Objectives" expand="false" type="slide" />
           </links>
         </slidelink>
